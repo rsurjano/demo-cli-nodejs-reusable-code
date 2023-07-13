@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "ES2015",
+    "moduleResolution": "nodenext",
+    "target": "ES6",
+    "esModuleInterop": true
+  },
+  "exclude": ["./_templates/**/*", "./generators/**/*"]
+}
